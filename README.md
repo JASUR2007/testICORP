@@ -1,6 +1,8 @@
 # testICORP
 #### Start the script
-'''php index.php'''
+```bash
+php index.php
+
 #### Sending the message to url, getting first part
 #### Getting the message and then second part
 #### Merging two parts
